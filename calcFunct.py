@@ -3,6 +3,11 @@
 """
 Created on Sun Oct 15 15:23:01 2017
 
+Designed to be used with MicroPython
+https://micropython.org
+
+This is just a random collection of modules that are applications of the concepts taught in my Discrete Math Class.
+
 @author: danielsalazar
 """
 
